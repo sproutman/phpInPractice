@@ -1,4 +1,7 @@
 <?php
+/*
+ * Test only
+ */
 interface IStrategy
 {
   function filter( $record );
@@ -58,6 +61,7 @@ class UserList
     return $recs;
   }
 }
+
 
 $ul = new UserList( array( "Andy", "Jack", "Lori", "Megan" ) );
 $f1 = $ul->find( new FindAfterStrategy( "J" ) );
