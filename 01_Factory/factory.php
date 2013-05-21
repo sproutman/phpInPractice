@@ -3,8 +3,10 @@
 <?php
 // IUser and User
 interface IUser
-{
+{    
   function getName();
+  
+  function showName();
 }
 
 class User implements IUser
@@ -14,6 +16,11 @@ class User implements IUser
   public function getName()
   {
     return "Jack";
+  }
+
+    public function showName()
+  {
+      return "baby";
   }
 }
 
@@ -29,5 +36,5 @@ class UserFactory
 // Test code
 $uo = UserFactory::Create( 1 );
 echo( $uo->getName()."\n" );
-
+echo( $uo->showName()."\n" );
 ?>
