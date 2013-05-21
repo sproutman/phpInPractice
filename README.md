@@ -1,7 +1,7 @@
-[1] (http://www.ibm.com/developerworks/cn/opensource/os-php-7oohabits/)
+[1 os-php-7oohabits] (http://www.ibm.com/developerworks/cn/opensource/os-php-7oohabits/)
 
-[2] (http://www.ibm.com/developerworks/cn/opensource/os-php-designptrns/)
+[2 os-php-designptrns] (http://www.ibm.com/developerworks/cn/opensource/os-php-designptrns/)
 
-[3] (http://www.ibm.com/developerworks/cn/opensource/os-php-designpatterns/)
+[3 os-php-designpatterns] (http://www.ibm.com/developerworks/cn/opensource/os-php-designpatterns/)
 
 

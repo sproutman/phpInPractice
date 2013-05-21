@@ -44,9 +44,8 @@ class Person
     
     public function getSuffix()
     {
-        return $suffix;
-    }
-    
+        return $this->suffix;
+    } 
 }
 
 /*
